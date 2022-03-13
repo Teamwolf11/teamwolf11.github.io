@@ -7,4 +7,4 @@ background: '../img/posts/first-post/otago.png'
 
 ## Hi I am Mike, this is Bob The Builder
 
-![bob](../img/posts/first-post/bobTheBuilder.jpg)
+![bob](/img/posts/first-post/bobTheBuilder.jpg)
