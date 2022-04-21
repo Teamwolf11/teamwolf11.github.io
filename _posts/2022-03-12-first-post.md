@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Post"
-subtitle: "Hopefully this works as expected"
+subtitle: "Picture of Bob the Builder"
 background: '/img/posts/first-post/otago.jpg'
 ---
 
